@@ -54,6 +54,6 @@ Este proyecto implementa un sistema de recomendaciones utilizando técnicas de i
 
 1. Se clona el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/AI_Project.git
+git clone https://github.com/Alan-A30/AI_Project.git
 cd AI_Project
 
